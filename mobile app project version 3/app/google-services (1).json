@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436780217775",
+    "firebase_url": "https://logindemo-72c1d.firebaseio.com",
+    "project_id": "logindemo-72c1d",
+    "storage_bucket": "logindemo-72c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436780217775:android:ecbd7ca997eefa6f0d2b5a",
+        "android_client_info": {
+          "package_name": "ie.wit.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436780217775-o0so2b9mqf8rk54f76d2amggnge2pjpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_ymYE9tTVxuv8YKutIBA9EccuXpHKRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436780217775-o0so2b9mqf8rk54f76d2amggnge2pjpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

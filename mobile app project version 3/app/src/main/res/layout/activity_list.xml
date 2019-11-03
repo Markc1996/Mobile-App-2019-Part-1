@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".list">
+
+    <EditText
+        android:id="@+id/addtext"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Add Items" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add/Remove ToDo List"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="99dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/addbutton"
+        android:layout_width="363dp"
+        android:layout_height="53dp"
+        android:text="Add Items"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="150dp"
+        tools:ignore="MissingConstraints" />
+
+    <ListView
+        android:layout_width="413dp"
+        android:layout_height="517dp"
+        android:id="@+id/listView"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="209dp"
+        android:choiceMode="multipleChoice"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
