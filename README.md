@@ -28,9 +28,13 @@ https://stackoverflow.com/questions/33995938/how-to-create-a-table-by-using-tabl
 
 Add and Remove List:
 https://youtu.be/ed967ZsQ19o
+
 https://youtu.be/UnyKFgD7_yo
 
 Login & Registration (CODE NOT FINISHED, FOR ASSIGNMENT 2):
 https://youtu.be/lF5m4o_CuNg
+
 https://youtu.be/pFc59hCnbPQ
+
 https://youtu.be/zKBGjGoeid0
+
